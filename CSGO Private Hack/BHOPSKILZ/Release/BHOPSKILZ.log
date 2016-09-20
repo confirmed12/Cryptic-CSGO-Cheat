@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (BHOPSKILZ.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  MManager.cpp
+  Generating Code...
+  BHOPSKILZ.vcxproj -> C:\Users\Frankiee\Downloads\Development build\CSGO Private Hack\Release\Cod3's CSGO Private Cheat.exe
